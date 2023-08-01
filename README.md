@@ -18,9 +18,7 @@
 
 ![dashboard](dashboard.jpg)
 
-![hover-data](hoverimg.jpg)
-
-<img src="hoverimg.jpg" alt="Data revealed on hover" width="auto" height="500">
+<img src="hoverimg.jpg" alt="Data revealed on hover" width="auto" height="600">
 
 ## Dataset
 
