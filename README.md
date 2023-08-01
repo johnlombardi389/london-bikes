@@ -1,6 +1,6 @@
 # London Bike Sharing Analysis
 
-![banner](bikesimage.png)
+![banner](bikesimage.jpg)
 
 # Key findings:
 
