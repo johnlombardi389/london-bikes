@@ -7,7 +7,7 @@
 - [Results](#results)
 - [Dataset](#dataset)
 - [Tools](#tools)
-- [Code](#code)
+- [Code Example](#code-example)
 - [Author](#author)
 
 ## Results
@@ -26,7 +26,7 @@
 - Excel
 - Tableau
 
-## Code
+## Code Example
 
 ```python
 # create season and winter dicts to change numbers to str values
