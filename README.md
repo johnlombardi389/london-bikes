@@ -1,5 +1,7 @@
 # London Bike Sharing Analysis
 
+![banner](bikesimage.png)
+
 # Key findings:
 
 ## Table of Contents
