@@ -20,7 +20,7 @@
 
 ![hover-data](hoverimg.jpg)
 
-<img src="hoverimg.jpg" alt="Data revealed on hover" width="200" height="300">
+<img src="hoverimg.jpg" alt="Data revealed on hover" width="auto" height="500">
 
 ## Dataset
 
