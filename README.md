@@ -14,9 +14,11 @@
 
 ## Results
 
+- [Tableau Dashboard](https://public.tableau.com/views/Book1_16908382045990/LondonBikeRides?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ![dashboard](dashboard.jpg)
 
-- [Tableau Dashboard](https://public.tableau.com/views/Book1_16908382045990/LondonBikeRides?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+![hover-data](hoverimg.jpg)
 
 ## Dataset
 
