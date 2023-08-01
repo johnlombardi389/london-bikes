@@ -20,6 +20,8 @@
 
 ![hover-data](hoverimg.jpg)
 
+<img src="hoverimg.jpg" alt="Data revealed on hover" width="200" height="300">
+
 ## Dataset
 
 - [Kaggle London Bike Sharing Dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
